@@ -1,0 +1,25 @@
+{
+  "name": "shinomiya",
+  "version": "1.0.0",
+  "description": "Shinomiya theme is a Solarized-like theme with additions of purple-ish and blue-ish colors.",
+  "main": "shinomiya.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alipoyrazaydin/shinomiya.git"
+  },
+  "keywords": [
+    "shinomiya",
+    "shinomiya-theme",
+    "solarized-like",
+    "solarized-like-themes"
+  ],
+  "author": "alipoyrazaydin",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/alipoyrazaydin/shinomiya/issues"
+  },
+  "homepage": "https://github.com/alipoyrazaydin/shinomiya#readme"
+}

@@ -1,0 +1,27 @@
+/*
+       Shinomiya Theme
+       by Ali Poyraz AYDIN (KIGIPUX)
+*/
+
+:root {
+  --primary-color: #d33682;
+  --secondary-color: #426189;
+  --primary-color-dim: #56283f;
+  --secondary-color-dim: #111924;
+  --color-black: #23292b;
+  --color-red: #cc0000;
+  --color-green: #4e9a06;
+  --color-yellow: #c4a000;
+  --color-blue: #3465a4;
+  --color-magenta: #75507b;
+  --color-cyan: #6989a;
+  --color-white: #d3d7cf;
+  --color-brightblack: #474f57;
+  --color-brightred: #ef2929;
+  --color-brightgreen: #8ae234;
+  --color-brightyellow: #fce94f;
+  --color-brightblue: #426189;
+  --color-brightmagenta: #d33682;
+  --color-brightcyan: #34e2e2;
+  --color-brightwhite: #eeeeec;
+}
